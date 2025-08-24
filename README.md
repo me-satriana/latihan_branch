@@ -1,2 +1,1 @@
-# latihan_branch
-Ini adalah latihan menyelesaikan conflick pada branch
+# Ini adalah repository untuk latihan membuat bransch baru di GitHub
